@@ -65,7 +65,7 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 * Cách 1:  Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
 
+![](/assets/11.png)
 
-
-
+- Sau khi ấn vào **Chi tiết**
 
