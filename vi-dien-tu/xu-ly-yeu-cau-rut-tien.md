@@ -81,5 +81,7 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 2. Chúng ta sẽ Tải file lên , file đó là file đã được chúng ta Xuất file hoặc những file đã được format theo chuẩn ,các đuôi file được hổ trợ là .xls , .xlsx , .csv
 
+- Đây là định dạng chuẩn gồm các cốt:
+
 
 
