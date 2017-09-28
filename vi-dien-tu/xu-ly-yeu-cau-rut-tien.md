@@ -75,5 +75,5 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 * Sau khi ấn **Lưu** sẽ có thông báo thành công 
 
-![](/assets/13.png)
+![](/assets/13.png)  
 
