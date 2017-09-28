@@ -16,19 +16,19 @@
 
 * Khi ấn vào **Phương thức** sẽ hiện thị danh sách cho chúng ta lựa chọn
 
- - Mặc định khi ấn vào menu sẽ tải tất cả các phương thức thanh toán.
+  * Mặc định khi ấn vào menu sẽ tải tất cả các phương thức thanh toán.
 
-- Hiện tại có 3 loại cho chúng ta chọn:
+* Hiện tại có 3 loại cho chúng ta chọn:
 
-1. **Tài khoản Paypal**
+* **Tài khoản Paypal**
 
-2. **Tài khoản ngân hàng**
+* **Tài khoản ngân hàng**
 
-3. **Tất cả**
+* **Tất cả**
 
-   ![](/assets/6.png)
+  ![](/assets/6.png)
 
-* Khi ấn vào **Mới **sẽ hiện thị danh sách cho chúng ta lựa chọn,đây là trạng thái của danh sách yêu cầu rút tiền, 
+* Khi ấn vào **Mới **sẽ hiện thị danh sách cho chúng ta lựa chọn,đây là trạng thái của danh sách yêu cầu rút tiền,
 
 mặc định sẽ  Mới.
 
@@ -38,8 +38,6 @@ mặc định sẽ  Mới.
 2. Chờ xử lý
 3. Đang xử lý
 4. Hoàn thành
-
-
 
 
 
