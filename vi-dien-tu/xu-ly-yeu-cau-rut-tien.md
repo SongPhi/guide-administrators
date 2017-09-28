@@ -6,5 +6,14 @@
 
 #### ![](/assets/2.png)
 
+* #### Khi ấn vào Từ ngày sẽ hiện thị 1 bảng cho chúng ta chọn ngày
+
+#### ![](/assets/3.png)
+
+#### 
+
+* #### Đến ngày \(ví dụ: 29-09-2017\)
+* #### Phương thức
+
 
 
