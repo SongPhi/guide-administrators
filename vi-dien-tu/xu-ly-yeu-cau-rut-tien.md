@@ -77,5 +77,9 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 ![](/assets/13.png)
 
-2. **Cách 2**
+1. **Cách 2:**
+
+- Chúng ta sẽ Tải file lên , file đó là file đã được chúng ta Xuất file hoặc những file đã được format theo chuẩn 
+
+
 
