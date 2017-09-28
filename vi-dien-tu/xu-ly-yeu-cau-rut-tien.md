@@ -39,5 +39,13 @@ mặc định sẽ  Mới.
 3. Đang xử lý
 4. Hoàn thành
 
+![](/assets/5.png)
 
+\* Để bắt đầu tìm kiếm chúng ta chọn những thông tin cần tìm kiếm 
+
+- Ví dụ : chọn ngày từ ngày = **22-09-2017**, chọn ngày đến = **25-09-2017**,  phương thức = tất cả, trạng thái = **mới **và chúng ta ấn vào nút hình **Kính lúp** để bắt đầu tìm kiếm
+
+-Kết quả như sau:
+
+![](/assets/7.png)
 
