@@ -1,4 +1,4 @@
-#### \* Khi ấn vào **Yêu cầu rút tiền** trên menu thì trên màn hình sẽ trả về danh sách tất cả người dùng yêu cầu rút tiền với trạng thái là **Mới**
+\* Khi ấn vào Yêu cầu rút tiền trên menu thì trên màn hình sẽ trả về danh sách tất cả người dùng yêu cầu rút tiền với trạng thái là Mới
 
 ![](/assets/1.png)
 
@@ -67,9 +67,7 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 ![](/assets/11.png)
 
-* Sau khi ấn vào **Chi tiết**
-
-
+* Sau khi ấn vào **Chi tiết **sẽ hiện ra thông tin chi tiết của người yêu cầu rút tiền và chọn Trạng thái ấn nút Lưu  để cập nhật lại trạng thái mới.
 
 
 
