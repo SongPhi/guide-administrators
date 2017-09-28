@@ -55,5 +55,9 @@ mặc định sẽ  Mới.
 
 ![](/assets/9.png)
 
+* Chúng ta mở file vừa được tải về lên sẽ thấy dach sách yêu cầu rút tiền chúng ta đã tìm kiếm được.
+
+
+
 
 
