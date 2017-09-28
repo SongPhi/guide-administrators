@@ -63,9 +63,9 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 #### \* Sau khi chuyển tiền xong chúng ta muốn cập nhật trạng thái lại cho các yêu cầu rút tiền , hiện tai chúng ta có 2 cách**:**
 
-1. **Cách 1**
+- **Cách 1**
 
-2. Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
+1. Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
 
 ![](/assets/11.png)
 
@@ -77,11 +77,11 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 ![](/assets/13.png)
 
-- **Cách 2:**
+* **Cách 2:**
 
-1. Chúng ta sẽ Tải file lên , file đó là file đã được chúng ta Xuất file hoặc những file đã được format theo chuẩn ,các đuôi file được hổ trợ là .xls , .xlsx , .csv
+* Chúng ta sẽ Tải file lên , file đó là file đã được chúng ta Xuất file hoặc những file đã được format theo chuẩn ,các đuôi file được hổ trợ là .xls , .xlsx , .csv
 
-2. Đây là định dạng chuẩn gồm các cột: Guid, Tên Ngày, Số tiền, Loại tiền tệ, Phương thức, Email, Số tài khoản ngân hàng, Tên tài khoản ngân hàng , Tên ngân hàng, Tên Chi nhánh ngân hàng, Ghi chú, Trạng thái
+* Đây là định dạng chuẩn gồm các cột: Guid, Tên Ngày, Số tiền, Loại tiền tệ, Phương thức, Email, Số tài khoản ngân hàng, Tên tài khoản ngân hàng , Tên ngân hàng, Tên Chi nhánh ngân hàng, Ghi chú, Trạng thái
 
 ![](/assets/10.png)
 
