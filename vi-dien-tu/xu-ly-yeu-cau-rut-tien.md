@@ -69,5 +69,11 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 * Sau khi ấn vào **Chi tiết **sẽ hiện ra thông tin chi tiết của người yêu cầu rút tiền và chọn Trạng thái ấn nút Lưu  để cập nhật lại trạng thái mới.
 
+![](/assets/12.png)
+
+* Sau khi ấn Lưu sẽ có thông báo thành công 
+
+
+
 
 
