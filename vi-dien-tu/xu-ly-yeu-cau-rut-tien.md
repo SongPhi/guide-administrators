@@ -79,11 +79,11 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 1. **Cách 2:**
 
-
-
 * Chúng ta sẽ Tải file lên , file đó là file đã được chúng ta Xuất file hoặc những file đã được format theo chuẩn ,các đuôi file được hổ trợ là .xls , .xlsx , .csv
 
 * Đây là định dạng chuẩn gồm các cột: Guid, Tên Ngày, Số tiền, Loại tiền tệ, Phương thức, Email, Số tài khoản ngân hàng, Tên tài khoản ngân hàng , Tên ngân hàng, Tên Chi nhánh ngân hàng, Ghi chú, Trạng thái
+
+![](/assets/10.png)
 
 
 
