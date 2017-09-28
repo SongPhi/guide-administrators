@@ -65,7 +65,7 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 1. **Cách 1**
 
-* Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
+2. Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
 
 ![](/assets/11.png)
 
@@ -77,7 +77,5 @@ Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuy�
 
 ![](/assets/13.png)
 
-
-
-
+2. **Cách 2**
 
