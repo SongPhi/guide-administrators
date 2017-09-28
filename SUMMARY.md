@@ -6,5 +6,5 @@
 * [Quản lý Chợ](quan-ly-cho.md)
   * [Quản lý yêu cầu tạo cửa hàng](quan-ly-cho/quan-ly-yeu-cau-tao-cua-hang.md)
 * [Ví điện tử](vi-dien-tu.md)
-  * Cấu hình
+  * [Cấu hình](vi-dien-tu/cau-hinh.md)
 
