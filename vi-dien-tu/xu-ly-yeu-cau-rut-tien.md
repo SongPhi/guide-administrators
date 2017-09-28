@@ -47,57 +47,9 @@ mặc định sẽ  Mới.
 
 -Kết quả như sau:
 
-![](/assets/7.png)\* Sau khi tìm kiếm danh sách 
+#### ![](/assets/7.png)\* Sau khi tìm kiếm danh sách bạn mong muốn và bạn muốn Xuất ra file excel thì chúng tá ấn vào nút **Xuất File**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### 
 
 
 
