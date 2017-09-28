@@ -53,7 +53,7 @@ mặc định sẽ  Mới.
 
 * Sau khi ấn nút file sẽ tự động được tải về.
 
-
+![](/assets/9.png)
 
 
 
