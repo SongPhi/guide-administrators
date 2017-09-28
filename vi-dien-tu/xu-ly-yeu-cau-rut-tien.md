@@ -1,8 +1,8 @@
-\* Khi ấn vào **Yêu cầu rút tiền** trên menu thì trên màn hình sẽ trả về danh sách tất cả người dùng yêu cầu rút tiền với trạng thái là **Mới**
+#### \* Khi ấn vào **Yêu cầu rút tiền** trên menu thì trên màn hình sẽ trả về danh sách tất cả người dùng yêu cầu rút tiền với trạng thái là **Mới**
 
 ![](/assets/1.png)
 
-\* Trên danh sách có 1 box để cho mọi người tìm kiếm nhưng người dùng yêu cầu rút tiền và có 4 trường đề tìm kiếm:
+#### \* Trên danh sách có 1 box để cho mọi người tìm kiếm nhưng người dùng yêu cầu rút tiền và có 4 trường đề tìm kiếm:
 
 ![](/assets/2.png)
 
@@ -41,11 +41,63 @@ mặc định sẽ  Mới.
 
 ![](/assets/5.png)
 
-\* Để bắt đầu tìm kiếm chúng ta chọn những thông tin cần tìm kiếm 
+#### _\* Để bắt đầu tìm kiếm chúng ta chọn những thông tin cần tìm kiếm_
 
-- Ví dụ : chọn ngày từ ngày = **22-09-2017**, chọn ngày đến = **25-09-2017**,  phương thức = tất cả, trạng thái = **mới **và chúng ta ấn vào nút hình **Kính lúp** để bắt đầu tìm kiếm
+* Ví dụ : chọn ngày từ ngày = **22-09-2017**, chọn ngày đến = **25-09-2017**,  phương thức = tất cả, trạng thái = **mới **và chúng ta ấn vào nút hình **Kính lúp** để bắt đầu tìm kiếm
 
 -Kết quả như sau:
 
-![](/assets/7.png)
+![](/assets/7.png)\* Sau khi tìm kiếm danh sách 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
