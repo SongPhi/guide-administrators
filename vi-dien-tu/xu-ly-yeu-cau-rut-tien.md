@@ -59,5 +59,13 @@ mặc định sẽ  Mới.
 
 ![](/assets/10.png)
 
+Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuyển tiền.
+
+#### \* Sau khi chuyển tiền xong chúng ta muốn cập nhật trạng thái lại cho các yêu cầu rút tiền , hiện tai chúng ta có 2 cách:
+
+1. Cách 1
+
+
+
 
 
