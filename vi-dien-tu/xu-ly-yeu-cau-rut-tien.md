@@ -49,7 +49,11 @@ mặc định sẽ  Mới.
 
 #### ![](/assets/7.png)\* Sau khi tìm kiếm danh sách bạn mong muốn và bạn muốn Xuất ra file excel thì chúng ta ấn vào nút **Xuất File**
 
-- Bắt đầu ấn nút.![](/assets/8.png)
+* Bắt đầu ấn nút.![](/assets/8.png)
+
+* Sau khi ấn nút file sẽ tự động được tải về.
+
+
 
 
 
