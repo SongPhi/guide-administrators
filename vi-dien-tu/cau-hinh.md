@@ -7,7 +7,7 @@
 
 \* Cách lưu cấu hình:
 
-1. Nhập số tiền tối thiểu và tối đa cho đơn vị tiền tệ bạn muốn giới hạn
+1. Nhập số tiền tối thiểu và tối đa cho tất cả đơn vị tiền tệ đơn vị tiền tệ 
 2. Ấn vào nút Lưu để thành kết quả
 
 ![](/assets/Screenshot from 2017-09-28 17-35-55.png)
