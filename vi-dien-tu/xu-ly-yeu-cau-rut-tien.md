@@ -61,13 +61,15 @@ mặc định sẽ  Mới.
 
 Dựa vào thông tin trong file chúng ta sẽ đem ra ngân hàng để chuyển tiền.
 
-#### \* Sau khi chuyển tiền xong chúng ta muốn cập nhật trạng thái lại cho các yêu cầu rút tiền , hiện tai chúng ta có 2 cách:
+#### \* Sau khi chuyển tiền xong chúng ta muốn cập nhật trạng thái lại cho các yêu cầu rút tiền , hiện tai chúng ta có 2 cách**:**
 
-* Cách 1:  Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
+1. **Cách 1**
+
+*  Trên danh sách từng dòng ở cột **Thao tác** có link **Chi tiết** và ấn vào đó.
 
 ![](/assets/11.png)
 
-- Sau khi ấn vào **Chi tiết **sẽ hiện ra thông tin chi tiết của người yêu cầu rút tiền và chọn Trạng thái ấn nút Lưu  để cập nhật lại trạng thái mới.
+* Sau khi ấn vào **Chi tiết **sẽ hiện ra thông tin chi tiết của người yêu cầu rút tiền và chọn Trạng thái ấn nút Lưu  để cập nhật lại trạng thái mới.
 
 ![](/assets/12.png)
 
